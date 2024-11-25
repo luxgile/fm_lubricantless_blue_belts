@@ -1,0 +1,11 @@
+{
+  "name": "Lubricantless_Blue_Belts",
+  "version": "0.1.0",
+  "title": "Fluidless Express Belt",
+  "author": "Luxgile",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0"
+  ],
+  "description": "Removes lubricant from the Express Belt recipe."
+}
