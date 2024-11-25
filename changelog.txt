@@ -3,3 +3,11 @@ Version: 0.1.0
 Date: 25. 11. 2024
   Major Features:
     - Initial release.
+
+---------------------------------------------------------------------------------------------------
+Version: 0.1.1
+Date: 25. 11. 2024
+  Major Features:
+    - Removed lubricant from underground belts and spliters.
+  Bugfixes:
+    - Fixed crash when starting the game due to mismatched internal name.
